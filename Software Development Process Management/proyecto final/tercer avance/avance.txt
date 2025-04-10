@@ -1,0 +1,5 @@
+Organizacion que contiene todos los avances del proyecto:
+https://github.com/WareBox-Logistics
+
+Pipeline para el backend (especifico):
+https://github.com/WareBox-Logistics/backend/blob/main/.github/workflows/laravel.yml
