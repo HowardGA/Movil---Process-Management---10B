@@ -1,2 +1,2 @@
 Proyecto completo (Movil)
-https://github.com/WareBox-Logistics~
+https://github.com/WareBox-Logistics/warebox-mobile-app
